@@ -1,8 +1,8 @@
 {
-  "name": "ejercicio13",
+  "name": "ejercicio13b",
   "version": "1.0.0",
   "description": "",
-  "main": "ejercicio13.js",
+  "main": "ejercicio13b.js",
   "scripts": {
     "start": "npm run build",
     "build": "node ejercicio13b.js",
